@@ -15,7 +15,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            I am Batman.
+            I am Batman. But with new mail.
           </a>
         </header>
       </div>
