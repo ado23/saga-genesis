@@ -8,7 +8,7 @@ function rootReducer (state = initialState, action) {
 
     switch (action.type) {
 
-        case ADD_VEHICLE: 
+        case ADD_VEHICLE:   
         return {
             ...state,
             vehicles: [...state.vehicles, action.payload]
